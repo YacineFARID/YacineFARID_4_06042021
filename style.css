@@ -7,6 +7,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.customer-advice {
+    font-size: 1.3em;
+}
+.customer-advice p {
+    font-size: 0.8em;
+}
 a,
 button {
     transition: all .3s ease-in-out;

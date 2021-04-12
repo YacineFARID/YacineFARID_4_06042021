@@ -13,6 +13,15 @@ body {
 .customer-advice p {
     font-size: 0.8em;
 }
+.logo-header {
+    width: 100%;
+    height: 40px;
+}
+.image-resize-mode {
+    width: 100px;
+    height:100px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -375,6 +384,9 @@ a:hover {
         right: 20px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
+    }
+    .logo-header {
+        width: 50%;
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {

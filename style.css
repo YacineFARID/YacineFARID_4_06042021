@@ -683,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 1em;
+    font-size: 1.3em;
 }
 
 .tight-width-whitespace {
@@ -781,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
@@ -790,20 +790,20 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #c27956 !important;
+    color: #FFFFFF !important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #FFFFFF !important;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #cccccc !important;
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #F3976C !important;
 }
 
 .ltc-atomic-tangerine:hover {

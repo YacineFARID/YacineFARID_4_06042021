@@ -9,9 +9,11 @@ body {
 
 .customer-advice {
     font-size: 1.3em;
+    color: black;
 }
 .customer-advice p {
     font-size: 0.8em;
+    color:black;
 }
 
 a,
@@ -743,7 +745,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color:white !important;
 }
 
 .portfolio-thumb {
